@@ -1,0 +1,18 @@
+Receita de bolo
+	
+	Passo 1- Verificar (if) todos os ingredientes: chocolate, manteiga, ovo, farinha, fermento.
+	if not restart
+
+	Passo 2- Verificar (if) se os utensilios estao disponiveis (forno, forma, colher, pote).
+	if not restart
+
+	Passo 3- Escolher qual cobertura do bolo (chocolate)
+	Passo 4- Misturar os ingredientes.
+	Passo 5- Pré aquecer o forno a 200 graus.
+	Passo 6- Colocar tudo na forma.
+	Passo 7- Colocar a forma no forno.
+	Passo 8- Deixar assar por 40 minutos.
+	Passo 9- Verificar (if) se o bolo esta pronto.
+	Passo 10- Retirar a forma de bolo do forno.
+	
+	
