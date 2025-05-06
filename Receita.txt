@@ -15,6 +15,4 @@ Receita de bolo
 	Passo 9- Verificar (if) se o bolo esta pronto.
 	Passo 10- Retirar a forma de bolo do forno.
 
-	Passo 11- Adicionando algo para testar
-	
-	
+	Passo 11- Testando pra ver se ainda sei mexer nessa merda
