@@ -1,6 +1,6 @@
 Receita de bolo
 	
-	Passo 1- Verificar (if) todos os ingredientes: chocolate, manteiga, ovo, farinha, fermento.
+	Passo 01- Verificar (if) todos os ingredientes: chocolate, manteiga, ovo, farinha, fermento.
 	if not restart
 
 	Passo 2- Verificar (if) se os utensilios estao disponiveis (forno, forma, colher, pote).
